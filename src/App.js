@@ -67,6 +67,7 @@ function App() {
 									"." +
 									window.location.host
 								}
+								target="_blank"
 							>
 								{user.username}
 							</a>
